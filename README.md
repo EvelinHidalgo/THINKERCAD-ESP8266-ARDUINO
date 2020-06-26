@@ -249,7 +249,6 @@ Para programar el m√≥dulo usando UART, conecte GPIO0 a tierra y GPIO2 a VCC o d√
 
 1.Ingresar en el siguiente link https://www.tinkercad.com/dashboard.Click en circuitos.
 
-
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img9.png)
 
 2. Click en crear nuevo circuito.
