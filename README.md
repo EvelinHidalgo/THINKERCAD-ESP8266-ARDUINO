@@ -248,12 +248,12 @@ Para programar el módulo usando UART, conecte GPIO0 a tierra y GPIO2 a VCC o d�
 **MANUAL DE USUARIO**
 
 1.Ingresar en el siguiente link https://www.tinkercad.com/dashboard.Click en circuitos.
-\
+
 
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img9.png)
 
 2. Click en crear nuevo circuito.
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img10.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img10.png)
 
 3.Click en buscar y escribir Módulo Wifi, arrastrar el componente hasta la ventana de ejercución.
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img11.png)
