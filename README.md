@@ -246,26 +246,29 @@ Para programar el módulo usando UART, conecte GPIO0 a tierra y GPIO2 a VCC o d�
 
 
 **MANUAL DE USUARIO**
+
 1.Ingresar en el siguiente link https://www.tinkercad.com/dashboard.Click en circuitos.
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img9.png)
+\
+
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img9.png)
 
 2. Click en crear nuevo circuito.
 [](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img10.png)
 
 3.Click en buscar y escribir Módulo Wifi, arrastrar el componente hasta la ventana de ejercución.
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img11.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img11.png)
 
 4.Click en buscar y escribir Arduino, arrastrar el componente hasta la ventana de ejercución.
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img12.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img12.png)
 
 5.Click en buscar y escribir Placa de prueba pequeña, arrastrar el componente hasta la ventana de ejercución.
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img13.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img13.png)
 
 6.Click en buscar y escribir Resistor, arrastrar el componente hasta la ventana de ejercución, en este caso serían cinco resistencias
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img14.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img14.png)
 
-7.Click en buscar y escribir LED, arrastrar el componente hasta la ventana de ejercución, en este caso dos leds.
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img15.png)
+7.Click en buscar y escribir LED, arrastrar el componente hasta la ventana de ejercución, en este caso dos leds.!
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img15.png)
 
 8.Al tener todos los componentes necesarios en la ventana se empezará a unir los puertos tanto del SPE8166 y del Arduino como se menciona a continuación.
 Arduino puerto 2 con SPE8166 puerto TX
@@ -279,24 +282,24 @@ Arduino 3.3V con Resistencia 1
 Arduino GND con Resistencia 3
 
 Arduino GND con Led 1 y 2
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img16.png)
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img17.png)
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img18.png)
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img19.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img16.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img17.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img18.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img19.png)
 
 9.En la parte derecha click en el ícono Código-Texto .
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img20.png)
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img21.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img20.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img21.png)
 
 10.Se abrirá una pequeña ventana a la derecha donde se tendrá que ingresar el código para que realice la simulación Thinkercad.
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img22.png)
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img23.png)
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img24.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img22.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img23.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img24.png)
 
 11.Finalmente se obtiene la simulación.
 
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img25.png)
-[](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img26.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img25.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img26.png)
 **BIBLIOGRAFÍA**
 
 [1] Descubre Arduino.com.(2014). ARDUINO UNO, PARTES, COMPONENTES, PARA QUÉ SIRVE Y DONDE COMPRAR.Recuperado de:https://descubrearduino.com/arduino-uno/
