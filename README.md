@@ -296,6 +296,7 @@ Arduino GND con Led 1 y 2
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img24.png)
 
 10.1 Explicación Código  Fuente
+
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img27.png)
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img28.png)
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img29.png)
@@ -303,6 +304,10 @@ Arduino GND con Led 1 y 2
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img31.png)
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img32.png)
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img33.png)
+
+Se utilizó dos funciones principales en el código digitalWrite() y delay(), donde se Enciende el LED durante 1 segundo (1000 milisegundos) usando digitalWrite(salida, HIGH) y espera de 1 segundo con delay(1000).Luego se  apaga el LED usando digitalWrite(salida, LOW) y espera de 1 segundo con delay(1000).
+El programa continúa indefinidamente solo si está alimentado del ESP utililizando una dirección IP donde se verá que el LED parpadea, un segundo encendido, un segundo apagado.
+
 
 11.Finalmente se obtiene la simulación.
 
