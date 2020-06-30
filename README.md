@@ -295,6 +295,15 @@ Arduino GND con Led 1 y 2
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img23.png)
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img24.png)
 
+10.1 Explicación Código  Fuente
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img27.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img28.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img29.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img30.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img31.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img32.png)
+![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img33.png)
+
 11.Finalmente se obtiene la simulación.
 
 ![](https://github.com/EvelinHidalgo/THINKERCAD-ESP8266-ARDUINO/blob/master/img/img25.png)
